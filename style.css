@@ -1,0 +1,92 @@
+body {
+  background-color: rgb(240,240,240);
+  font-family: 'Poppins', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Raleway', sans-serif;
+}
+
+h1{
+  color: #381460;
+}
+
+h2 {
+  color: #381460;
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.card {
+  border: 2px solid black;
+  border-radius: 50px;
+  width: 800px;
+  padding: 15px 30px;
+  margin: 0 auto;
+  margin-top: 20px;
+  background-color: white;
+  box-shadow: 7px 7px 10px 
+  color:b7472a;
+  display: center;
+  align-items: center;
+}
+
+img {
+  border: 3px #af1935;
+  border-radius: 50%;
+  display: center;
+  align-items: center;
+}
+
+.fa {
+  text-decoration: none;
+  color: white;
+}
+
+.insta:visited {
+  color: dark;
+}
+
+.mail {
+  background-color: #eb9788
+  padding: 10px 5px;
+  text-decoration: none;
+  box-shadow: 7px 7px 10px rgba(50,50,93,0.3);
+  font-family: Arial;
+  font-weight: bolder;
+  color: black;
+  border: 3px solid bottom: ;lack;
+  margin-top: 20px;
+}
+
+.mail-div {
+  text-align: center;
+  margin: 30px 0px;
+}
+
+.packoffice{
+  border-radius: 0%;
+}
+
+.socials li, .socials ul {
+  list-style: none;
+  display: inline;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+.socials-links {
+  text-align: center;
+  font-size: 40px;
+}
